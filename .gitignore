@@ -1,0 +1,10 @@
+
+restassurancedemo/.classpath
+restassurancedemo/.project
+restassurancedemo/.settings/
+restassurancedemo/target/
+*.gif
+*.png
+*.html
+*.js
+*.css
